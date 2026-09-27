@@ -1,0 +1,2 @@
+# Analisis-Perbandingan-Sentimen-Aspek-Ulasan-terhadap-Aplikasi-Roblox-dan-Mobile-Legend-di-Play-Store
+Menganalisis sentimen dan aspek ulasan aplikasi Roblox &amp; Mobile Legends di Google Play Store. Kedua Game tersebut memiliki karakteristik yang berbeda, sehingga persepsi pengguna terhadap fitur, performa, dan pengalaman bermain. Memanfaatkan teknik ml seperti Naive Bayes, SVM,TF-IDF dilakukan untuk identifikasi sentimen dan aspek yang dibahas.
